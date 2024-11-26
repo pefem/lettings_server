@@ -58,7 +58,7 @@ Thumbs.db
  
 **/venv
 
-*.env
+.env
 
 **/.vscode
 
